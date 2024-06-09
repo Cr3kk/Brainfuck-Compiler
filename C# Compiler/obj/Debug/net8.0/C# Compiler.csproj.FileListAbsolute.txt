@@ -1,0 +1,14 @@
+/Users/tijdelijk/Desktop/VScode/Brainfuck/C# Compiler/bin/Debug/net8.0/C# Compiler
+/Users/tijdelijk/Desktop/VScode/Brainfuck/C# Compiler/bin/Debug/net8.0/C# Compiler.deps.json
+/Users/tijdelijk/Desktop/VScode/Brainfuck/C# Compiler/bin/Debug/net8.0/C# Compiler.runtimeconfig.json
+/Users/tijdelijk/Desktop/VScode/Brainfuck/C# Compiler/bin/Debug/net8.0/C# Compiler.dll
+/Users/tijdelijk/Desktop/VScode/Brainfuck/C# Compiler/bin/Debug/net8.0/C# Compiler.pdb
+/Users/tijdelijk/Desktop/VScode/Brainfuck/C# Compiler/obj/Debug/net8.0/C# Compiler.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tijdelijk/Desktop/VScode/Brainfuck/C# Compiler/obj/Debug/net8.0/C# Compiler.AssemblyInfoInputs.cache
+/Users/tijdelijk/Desktop/VScode/Brainfuck/C# Compiler/obj/Debug/net8.0/C# Compiler.AssemblyInfo.cs
+/Users/tijdelijk/Desktop/VScode/Brainfuck/C# Compiler/obj/Debug/net8.0/C# Compiler.csproj.CoreCompileInputs.cache
+/Users/tijdelijk/Desktop/VScode/Brainfuck/C# Compiler/obj/Debug/net8.0/C# Compiler.dll
+/Users/tijdelijk/Desktop/VScode/Brainfuck/C# Compiler/obj/Debug/net8.0/refint/C# Compiler.dll
+/Users/tijdelijk/Desktop/VScode/Brainfuck/C# Compiler/obj/Debug/net8.0/C# Compiler.pdb
+/Users/tijdelijk/Desktop/VScode/Brainfuck/C# Compiler/obj/Debug/net8.0/C# Compiler.genruntimeconfig.cache
+/Users/tijdelijk/Desktop/VScode/Brainfuck/C# Compiler/obj/Debug/net8.0/ref/C# Compiler.dll
